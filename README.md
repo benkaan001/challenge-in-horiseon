@@ -1,4 +1,4 @@
-# Horiseon
+# Challenge in Horiseon
 
 ## Table of Contents
 
